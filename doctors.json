@@ -1,0 +1,23 @@
+[
+    { "name": "Dr. Arjun Kumar", "expertise": "Orthopedic Surgeon", "city": "Bengaluru" },
+    { "name": "Dr. Nivedita Sharma", "expertise": "Cardiologist", "city": "Mysuru" },
+    { "name": "Dr. Rajesh Reddy", "expertise": "Dermatologist", "city": "Bengaluru" },
+    { "name": "Dr. Sneha Menon", "expertise": "Pediatrician", "city": "Bengaluru" },
+    { "name": "Dr. Ananya Singh", "expertise": "ENT Specialist", "city": "Hubballi" },
+    { "name": "Dr. Sanjay Patel", "expertise": "Ophthalmologist", "city": "Mangaluru" },
+    { "name": "Dr. Meera Nair", "expertise": "Gynecologist", "city": "Bengaluru" },
+    { "name": "Dr. Vikram Gupta", "expertise": "Neurologist", "city": "Bengaluru" },
+    { "name": "Dr. Priya Desai", "expertise": "Psychiatrist", "city": "Tumakuru" },
+    { "name": "Dr. Karthik Raj", "expertise": "Urologist", "city": "Bengaluru" },
+    { "name": "Dr. Anjali Verma", "expertise": "Dentist", "city": "Bengaluru" },
+    { "name": "Dr. Pradeep Kumar", "expertise": "Rheumatologist", "city": "Bengaluru" },
+    { "name": "Dr. Snehal Yadav", "expertise": "Orthodontist", "city": "Bengaluru" },
+    { "name": "Dr. Kiran Sharma", "expertise": "Endocrinologist", "city": "Bengaluru" },
+    { "name": "Dr. Anushka Singh", "expertise": "Nephrologist", "city": "Bengaluru" },
+    { "name": "Dr. Rahul Gupta", "expertise": "Gastroenterologist", "city": "Bengaluru" },
+    { "name": "Dr. Preeti Deshmukh", "expertise": "Hematologist", "city": "Bengaluru" },
+    { "name": "Dr. Varun Saxena", "expertise": "Pulmonologist", "city": "Bengaluru" },
+    { "name": "Dr. Anand Rajput", "expertise": "Oncologist", "city": "Bengaluru" },
+    { "name": "Dr. Snehalatha Menon", "expertise": "Dermatopathologist", "city": "Bengaluru" }
+  ]
+  
